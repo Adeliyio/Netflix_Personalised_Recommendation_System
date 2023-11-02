@@ -1,0 +1,9 @@
+# App Requirements
+import numpy as np
+import pandas as pd
+import streamlit as st
+from sklearn.feature_extraction import text
+from sklearn.metrics.pairwise import cosine_similarity
+import nltk
+import re
+import string
